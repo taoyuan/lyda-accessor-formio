@@ -7,13 +7,6 @@
 $ npm install --save lyda-accessor-formio
 ```
 
-## Usage
-
-```js
-var lydaAccessorFormio = require('lyda-accessor-formio');
-
-lydaAccessorFormio('Rainbow');
-```
 ## License
 
 MIT © [Yuan Tao]()

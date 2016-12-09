@@ -14,17 +14,17 @@
   ],
   "devDependencies": {
     "chai": "^3.5.0",
-    "mocha": "^3.1.2"
+    "mocha": "^3.2.0"
   },
   "repository": "taoyuan/lyda-accessor-formio",
   "scripts": {},
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.4.6",
-    "debug": "^2.2.0",
-    "lodash": "^4.16.4",
-    "lyda-accessor": "^0.1.0",
-    "lyda-accessor-mongodb": "^0.1.0",
+    "debug": "^2.3.3",
+    "lodash": "^4.17.2",
+    "lyda-accessor": "^0.1.1",
+    "lyda-accessor-mongodb": "^0.1.15",
     "strong-globalize": "^2.8.0"
   }
 }
