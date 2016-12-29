@@ -20,11 +20,11 @@
   "scripts": {},
   "license": "MIT",
   "dependencies": {
-    "bluebird": "^3.4.6",
-    "debug": "^2.3.3",
-    "lodash": "^4.17.2",
-    "lyda-accessor": "^0.1.1",
-    "lyda-accessor-mongodb": "^0.1.15",
+    "bluebird": "^3.4.7",
+    "debug": "^2.6.0",
+    "lodash": "^4.17.3",
+    "lyda-accessor": "^0.1.3",
+    "lyda-accessor-mongodb": "^0.1.16",
     "strong-globalize": "^2.8.0"
   }
 }
